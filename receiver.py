@@ -4,10 +4,21 @@ sock.bind(("127.0.0.1", 5000))
 
 packet = sock.recvfrom(1024)
 
-returnACK = "ACK"
+rawReceivedData = packet[0]
+receivedData = rawReceivedData.decode()
+splitData = receivedData.split("|", maxsplit=1)
+
+seq_num = splitData[0]
+data = splitData[1]
+
+
+returnACK = "ACK " + str(seq_num)
 enc_ACK = returnACK.encode()
 
-print(packet[0].decode())
-print(packet[1])
+
+print("Sequence Number: " + str(seq_num))
+print("Data: " + data)
+print("Packet came from:" , packet[1])
+
 
 sock.sendto(enc_ACK, (packet[1]))
