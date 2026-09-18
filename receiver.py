@@ -5,14 +5,16 @@ sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 sock.bind(("127.0.0.1", 5000))
 expected_seq = 0
 
+result_file = open("result.txt", "wb")
+
+
 while True:
     packet = sock.recvfrom(1024)
     rawReceivedData = packet[0]
-    receivedData = rawReceivedData.decode()
-    splitData = receivedData.split("|", maxsplit=1)
+    splitData = rawReceivedData.split(b"|", maxsplit=1)
 
     seq_num = int(splitData[0])
-
+    data = splitData[1]
     
     if seq_num != expected_seq:
         returnACK = "ACK " + str((expected_seq - 1))
@@ -21,11 +23,14 @@ while True:
         print("Duplicate Packet")
 
     else:
-        data = splitData[1]
+        result_file.write(data)
+        result_file.flush()
         returnACK = "ACK " + str(seq_num)
         enc_ACK = returnACK.encode()
         print("Sequence Number: " + str(seq_num))
-        print("Data: " + data)
+        print("Data:", data)
         print("Packet came from:" , packet[1])
+        print()
         expected_seq += 1
         sock.sendto(enc_ACK, packet[1])
+

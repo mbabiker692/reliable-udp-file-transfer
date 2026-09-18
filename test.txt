@@ -1,0 +1,19 @@
+Reliable UDP File Transfer Test
+
+This file exists to test a reliable file transfer protocol implemented over UDP. Unlike TCP, UDP does not automatically provide acknowledgments, retransmissions, ordering, duplicate detection, or reliable delivery. The purpose of this project is to implement some of those mechanisms at the application layer.
+
+The sender divides this file into multiple chunks. Each chunk is assigned a sequence number and transmitted to the receiver as a UDP datagram. After receiving a valid packet, the receiver sends an acknowledgment containing the corresponding sequence number. The sender waits for that acknowledgment before moving on to the next chunk.
+
+If an acknowledgment does not arrive before the sender's timeout expires, the sender retransmits the same packet. This means the receiver may occasionally receive the same sequence number more than once. The receiver therefore keeps track of the sequence number it expects. Duplicate packets must not cause the same file data to be written multiple times, although the receiver should acknowledge the duplicate again so that the sender can recover from a lost acknowledgment.
+
+This paragraph exists primarily to make the test file larger. Networking protocols become more interesting when a message cannot fit conveniently into a single application-level chunk. Instead of treating the entire file as one message, the sender repeatedly reads a fixed number of bytes, sends those bytes reliably, receives an acknowledgment, increments the sequence number, and continues with the next portion of the file.
+
+If everything works correctly, the reconstructed file on the receiver side should contain exactly the same bytes as this original file. No text should be missing, duplicated, reordered, or corrupted during the transfer.
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+0123456789
+
+This is the end of the reliable UDP file transfer test file.
+
+(Test text file was generated with AI)
