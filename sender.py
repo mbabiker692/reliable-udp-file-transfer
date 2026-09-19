@@ -40,4 +40,7 @@ while (len(chunk) > 0):
     seq_num = reliable_send(sock, chunk, address, seq_num)
     chunk = file.read(100)
 
+seq_num = -1
+seq_num = reliable_send(sock, chunk, address, seq_num)
+
 file.close()
