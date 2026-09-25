@@ -1,5 +1,6 @@
 #receiver.py
 
+import random
 import socket
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 sock.bind(("127.0.0.1", 5000))
@@ -8,8 +9,14 @@ streamEnd = False
 
 result_file = open("result.txt", "wb")
 
+
+
 while not streamEnd:
     packet = sock.recvfrom(1024)
+    #Implemented a random chance for the packet to be dropped
+    if(random.random() < 0.1):
+        print("Packet Dropped")
+        continue
     rawReceivedData = packet[0]
     splitData = rawReceivedData.split(b"|", maxsplit=1)
 
