@@ -11,8 +11,8 @@ result_file = open("result.txt", "wb")
 
 
 #Drop Rates
-packetDropRate = 0.4
-ackDropRate = 0.4
+packetDropRate = 0.0
+ackDropRate = 0.0
 
 #Transfer Stats
 duplicates_seen = 0 
@@ -67,9 +67,9 @@ while not streamEnd:
         returnACK = "ACK " + str(seq_num)
         enc_ACK = returnACK.encode()
         print("Sequence Number: " + str(seq_num))
-        print("Data:", data)
-        print("Packet came from:" , packet[1])
-        print()
+        #print("Data:", data)
+        #print("Packet came from:" , packet[1])
+        #print()
         expected_seq += 1
         sock.sendto(enc_ACK, packet[1])
 

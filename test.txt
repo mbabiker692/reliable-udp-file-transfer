@@ -17,3 +17,359 @@ abcdefghijklmnopqrstuvwxyz
 This is the end of the reliable UDP file transfer test file.
 
 (Test text file was generated with AI)
+
+
+Reliable UDP File Transfer Stress Test
+This file is intentionally larger so packet-loss and ACK-loss statistics are less noisy.
+Each numbered line provides predictable ASCII data for transfer verification.
+
+Line 0001: UDP reliability test payload | sequence=0001 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0002: UDP reliability test payload | sequence=0002 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0003: UDP reliability test payload | sequence=0003 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0004: UDP reliability test payload | sequence=0004 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0005: UDP reliability test payload | sequence=0005 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0006: UDP reliability test payload | sequence=0006 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0007: UDP reliability test payload | sequence=0007 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0008: UDP reliability test payload | sequence=0008 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0009: UDP reliability test payload | sequence=0009 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0010: UDP reliability test payload | sequence=0010 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0011: UDP reliability test payload | sequence=0011 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0012: UDP reliability test payload | sequence=0012 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0013: UDP reliability test payload | sequence=0013 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0014: UDP reliability test payload | sequence=0014 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0015: UDP reliability test payload | sequence=0015 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0016: UDP reliability test payload | sequence=0016 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0017: UDP reliability test payload | sequence=0017 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0018: UDP reliability test payload | sequence=0018 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0019: UDP reliability test payload | sequence=0019 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0020: UDP reliability test payload | sequence=0020 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0021: UDP reliability test payload | sequence=0021 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0022: UDP reliability test payload | sequence=0022 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0023: UDP reliability test payload | sequence=0023 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0024: UDP reliability test payload | sequence=0024 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0025: UDP reliability test payload | sequence=0025 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0026: UDP reliability test payload | sequence=0026 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0027: UDP reliability test payload | sequence=0027 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0028: UDP reliability test payload | sequence=0028 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0029: UDP reliability test payload | sequence=0029 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0030: UDP reliability test payload | sequence=0030 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0031: UDP reliability test payload | sequence=0031 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0032: UDP reliability test payload | sequence=0032 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0033: UDP reliability test payload | sequence=0033 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0034: UDP reliability test payload | sequence=0034 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0035: UDP reliability test payload | sequence=0035 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0036: UDP reliability test payload | sequence=0036 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0037: UDP reliability test payload | sequence=0037 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0038: UDP reliability test payload | sequence=0038 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0039: UDP reliability test payload | sequence=0039 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0040: UDP reliability test payload | sequence=0040 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0041: UDP reliability test payload | sequence=0041 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0042: UDP reliability test payload | sequence=0042 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0043: UDP reliability test payload | sequence=0043 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0044: UDP reliability test payload | sequence=0044 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0045: UDP reliability test payload | sequence=0045 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0046: UDP reliability test payload | sequence=0046 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0047: UDP reliability test payload | sequence=0047 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0048: UDP reliability test payload | sequence=0048 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0049: UDP reliability test payload | sequence=0049 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0050: UDP reliability test payload | sequence=0050 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0051: UDP reliability test payload | sequence=0051 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0052: UDP reliability test payload | sequence=0052 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0053: UDP reliability test payload | sequence=0053 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0054: UDP reliability test payload | sequence=0054 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0055: UDP reliability test payload | sequence=0055 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0056: UDP reliability test payload | sequence=0056 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0057: UDP reliability test payload | sequence=0057 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0058: UDP reliability test payload | sequence=0058 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0059: UDP reliability test payload | sequence=0059 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0060: UDP reliability test payload | sequence=0060 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0061: UDP reliability test payload | sequence=0061 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0062: UDP reliability test payload | sequence=0062 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0063: UDP reliability test payload | sequence=0063 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0064: UDP reliability test payload | sequence=0064 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0065: UDP reliability test payload | sequence=0065 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0066: UDP reliability test payload | sequence=0066 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0067: UDP reliability test payload | sequence=0067 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0068: UDP reliability test payload | sequence=0068 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0069: UDP reliability test payload | sequence=0069 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0070: UDP reliability test payload | sequence=0070 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0071: UDP reliability test payload | sequence=0071 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0072: UDP reliability test payload | sequence=0072 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0073: UDP reliability test payload | sequence=0073 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0074: UDP reliability test payload | sequence=0074 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0075: UDP reliability test payload | sequence=0075 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0076: UDP reliability test payload | sequence=0076 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0077: UDP reliability test payload | sequence=0077 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0078: UDP reliability test payload | sequence=0078 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0079: UDP reliability test payload | sequence=0079 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0080: UDP reliability test payload | sequence=0080 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0081: UDP reliability test payload | sequence=0081 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0082: UDP reliability test payload | sequence=0082 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0083: UDP reliability test payload | sequence=0083 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0084: UDP reliability test payload | sequence=0084 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0085: UDP reliability test payload | sequence=0085 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0086: UDP reliability test payload | sequence=0086 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0087: UDP reliability test payload | sequence=0087 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0088: UDP reliability test payload | sequence=0088 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0089: UDP reliability test payload | sequence=0089 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0090: UDP reliability test payload | sequence=0090 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0091: UDP reliability test payload | sequence=0091 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0092: UDP reliability test payload | sequence=0092 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0093: UDP reliability test payload | sequence=0093 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0094: UDP reliability test payload | sequence=0094 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0095: UDP reliability test payload | sequence=0095 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0096: UDP reliability test payload | sequence=0096 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0097: UDP reliability test payload | sequence=0097 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0098: UDP reliability test payload | sequence=0098 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0099: UDP reliability test payload | sequence=0099 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0100: UDP reliability test payload | sequence=0100 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 012
+Reliable UDP File Transfer Test
+
+This file exists to test a reliable file transfer protocol implemented over UDP. Unlike TCP, UDP does not automatically provide acknowledgments, retransmissions, ordering, duplicate detection, or reliable delivery. The purpose of this project is to implement some of those mechanisms at the application layer.
+
+The sender divides this file into multiple chunks. Each chunk is assigned a sequence number and transmitted to the receiver as a UDP datagram. After receiving a valid packet, the receiver sends an acknowledgment containing the corresponding sequence number. The sender waits for that acknowledgment before moving on to the next chunk.
+
+If an acknowledgment does not arrive before the sender's timeout expires, the sender retransmits the same packet. This means the receiver may occasionally receive the same sequence number more than once. The receiver therefore keeps track of the sequence number it expects. Duplicate packets must not cause the same file data to be written multiple times, although the receiver should acknowledge the duplicate again so that the sender can recover from a lost acknowledgment.
+
+This paragraph exists primarily to make the test file larger. Networking protocols become more interesting when a message cannot fit conveniently into a single application-level chunk. Instead of treating the entire file as one message, the sender repeatedly reads a fixed number of bytes, sends those bytes reliably, receives an acknowledgment, increments the sequence number, and continues with the next portion of the file.
+
+If everything works correctly, the reconstructed file on the receiver side should contain exactly the same bytes as this original file. No text should be missing, duplicated, reordered, or corrupted during the transfer.
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+0123456789
+
+This is the end of the reliable UDP file transfer test file.
+
+(Test text file was generated with AI)
+
+
+Reliable UDP File Transfer Stress Test
+This file is intentionally larger so packet-loss and ACK-loss statistics are less noisy.
+Each numbered line provides predictable ASCII data for transfer verification.
+
+Line 0001: UDP reliability test payload | sequence=0001 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0002: UDP reliability test payload | sequence=0002 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0003: UDP reliability test payload | sequence=0003 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0004: UDP reliability test payload | sequence=0004 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0005: UDP reliability test payload | sequence=0005 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0006: UDP reliability test payload | sequence=0006 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0007: UDP reliability test payload | sequence=0007 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0008: UDP reliability test payload | sequence=0008 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0009: UDP reliability test payload | sequence=0009 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0010: UDP reliability test payload | sequence=0010 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0011: UDP reliability test payload | sequence=0011 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0012: UDP reliability test payload | sequence=0012 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0013: UDP reliability test payload | sequence=0013 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0014: UDP reliability test payload | sequence=0014 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0015: UDP reliability test payload | sequence=0015 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0016: UDP reliability test payload | sequence=0016 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0017: UDP reliability test payload | sequence=0017 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0018: UDP reliability test payload | sequence=0018 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0019: UDP reliability test payload | sequence=0019 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0020: UDP reliability test payload | sequence=0020 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0021: UDP reliability test payload | sequence=0021 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0022: UDP reliability test payload | sequence=0022 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0023: UDP reliability test payload | sequence=0023 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0024: UDP reliability test payload | sequence=0024 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0025: UDP reliability test payload | sequence=0025 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0026: UDP reliability test payload | sequence=0026 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0027: UDP reliability test payload | sequence=0027 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0028: UDP reliability test payload | sequence=0028 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0029: UDP reliability test payload | sequence=0029 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0030: UDP reliability test payload | sequence=0030 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0031: UDP reliability test payload | sequence=0031 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0032: UDP reliability test payload | sequence=0032 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0033: UDP reliability test payload | sequence=0033 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0034: UDP reliability test payload | sequence=0034 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0035: UDP reliability test payload | sequence=0035 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0036: UDP reliability test payload | sequence=0036 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0037: UDP reliability test payload | sequence=0037 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0038: UDP reliability test payload | sequence=0038 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0039: UDP reliability test payload | sequence=0039 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0040: UDP reliability test payload | sequence=0040 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0041: UDP reliability test payload | sequence=0041 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0042: UDP reliability test payload | sequence=0042 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0043: UDP reliability test payload | sequence=0043 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0044: UDP reliability test payload | sequence=0044 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0045: UDP reliability test payload | sequence=0045 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0046: UDP reliability test payload | sequence=0046 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0047: UDP reliability test payload | sequence=0047 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0048: UDP reliability test payload | sequence=0048 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0049: UDP reliability test payload | sequence=0049 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0050: UDP reliability test payload | sequence=0050 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0051: UDP reliability test payload | sequence=0051 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0052: UDP reliability test payload | sequence=0052 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0053: UDP reliability test payload | sequence=0053 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0054: UDP reliability test payload | sequence=0054 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0055: UDP reliability test payload | sequence=0055 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0056: UDP reliability test payload | sequence=0056 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0057: UDP reliability test payload | sequence=0057 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0058: UDP reliability test payload | sequence=0058 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0059: UDP reliability test payload | sequence=0059 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0060: UDP reliability test payload | sequence=0060 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0061: UDP reliability test payload | sequence=0061 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0062: UDP reliability test payload | sequence=0062 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0063: UDP reliability test payload | sequence=0063 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0064: UDP reliability test payload | sequence=0064 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0065: UDP reliability test payload | sequence=0065 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0066: UDP reliability test payload | sequence=0066 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0067: UDP reliability test payload | sequence=0067 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0068: UDP reliability test payload | sequence=0068 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0069: UDP reliability test payload | sequence=0069 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0070: UDP reliability test payload | sequence=0070 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0071: UDP reliability test payload | sequence=0071 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0072: UDP reliability test payload | sequence=0072 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0073: UDP reliability test payload | sequence=0073 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0074: UDP reliability test payload | sequence=0074 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0075: UDP reliability test payload | sequence=0075 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0076: UDP reliability test payload | sequence=0076 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0077: UDP reliability test payload | sequence=0077 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0078: UDP reliability test payload | sequence=0078 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0079: UDP reliability test payload | sequence=0079 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0080: UDP reliability test payload | sequence=0080 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0081: UDP reliability test payload | sequence=0081 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0082: UDP reliability test payload | sequence=0082 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0083: UDP reliability test payload | sequence=0083 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0084: UDP reliability test payload | sequence=0084 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0085: UDP reliability test payload | sequence=0085 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0086: UDP reliability test payload | sequence=0086 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0087: UDP reliability test payload | sequence=0087 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0088: UDP reliability test payload | sequence=0088 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0089: UDP reliability test payload | sequence=0089 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0090: UDP reliability test payload | sequence=0090 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0091: UDP reliability test payload | sequence=0091 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0092: UDP reliability test payload | sequence=0092 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0093: UDP reliability test payload | sequence=0093 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0094: UDP reliability test payload | sequence=0094 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0095: UDP reliability test payload | sequence=0095 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0096: UDP reliability test payload | sequence=0096 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0097: UDP reliability test payload | sequence=0097 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0098: UDP reliability test payload | sequence=0098 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0099: UDP reliability test payload | sequence=0099 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0100: UDP reliability test payload | sequence=0100 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 012
+Reliable UDP File Transfer Test
+
+This file exists to test a reliable file transfer protocol implemented over UDP. Unlike TCP, UDP does not automatically provide acknowledgments, retransmissions, ordering, duplicate detection, or reliable delivery. The purpose of this project is to implement some of those mechanisms at the application layer.
+
+The sender divides this file into multiple chunks. Each chunk is assigned a sequence number and transmitted to the receiver as a UDP datagram. After receiving a valid packet, the receiver sends an acknowledgment containing the corresponding sequence number. The sender waits for that acknowledgment before moving on to the next chunk.
+
+If an acknowledgment does not arrive before the sender's timeout expires, the sender retransmits the same packet. This means the receiver may occasionally receive the same sequence number more than once. The receiver therefore keeps track of the sequence number it expects. Duplicate packets must not cause the same file data to be written multiple times, although the receiver should acknowledge the duplicate again so that the sender can recover from a lost acknowledgment.
+
+This paragraph exists primarily to make the test file larger. Networking protocols become more interesting when a message cannot fit conveniently into a single application-level chunk. Instead of treating the entire file as one message, the sender repeatedly reads a fixed number of bytes, sends those bytes reliably, receives an acknowledgment, increments the sequence number, and continues with the next portion of the file.
+
+If everything works correctly, the reconstructed file on the receiver side should contain exactly the same bytes as this original file. No text should be missing, duplicated, reordered, or corrupted during the transfer.
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+0123456789
+
+This is the end of the reliable UDP file transfer test file.
+
+(Test text file was generated with AI)
+
+
+Reliable UDP File Transfer Stress Test
+This file is intentionally larger so packet-loss and ACK-loss statistics are less noisy.
+Each numbered line provides predictable ASCII data for transfer verification.
+
+Line 0001: UDP reliability test payload | sequence=0001 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0002: UDP reliability test payload | sequence=0002 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0003: UDP reliability test payload | sequence=0003 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0004: UDP reliability test payload | sequence=0004 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0005: UDP reliability test payload | sequence=0005 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0006: UDP reliability test payload | sequence=0006 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0007: UDP reliability test payload | sequence=0007 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0008: UDP reliability test payload | sequence=0008 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0009: UDP reliability test payload | sequence=0009 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0010: UDP reliability test payload | sequence=0010 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0011: UDP reliability test payload | sequence=0011 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0012: UDP reliability test payload | sequence=0012 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0013: UDP reliability test payload | sequence=0013 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0014: UDP reliability test payload | sequence=0014 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0015: UDP reliability test payload | sequence=0015 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0016: UDP reliability test payload | sequence=0016 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0017: UDP reliability test payload | sequence=0017 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0018: UDP reliability test payload | sequence=0018 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0019: UDP reliability test payload | sequence=0019 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0020: UDP reliability test payload | sequence=0020 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0021: UDP reliability test payload | sequence=0021 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0022: UDP reliability test payload | sequence=0022 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0023: UDP reliability test payload | sequence=0023 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0024: UDP reliability test payload | sequence=0024 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0025: UDP reliability test payload | sequence=0025 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0026: UDP reliability test payload | sequence=0026 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0027: UDP reliability test payload | sequence=0027 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0028: UDP reliability test payload | sequence=0028 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0029: UDP reliability test payload | sequence=0029 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0030: UDP reliability test payload | sequence=0030 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0031: UDP reliability test payload | sequence=0031 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0032: UDP reliability test payload | sequence=0032 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0033: UDP reliability test payload | sequence=0033 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0034: UDP reliability test payload | sequence=0034 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0035: UDP reliability test payload | sequence=0035 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0036: UDP reliability test payload | sequence=0036 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0037: UDP reliability test payload | sequence=0037 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0038: UDP reliability test payload | sequence=0038 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0039: UDP reliability test payload | sequence=0039 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0040: UDP reliability test payload | sequence=0040 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0041: UDP reliability test payload | sequence=0041 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0042: UDP reliability test payload | sequence=0042 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0043: UDP reliability test payload | sequence=0043 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0044: UDP reliability test payload | sequence=0044 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0045: UDP reliability test payload | sequence=0045 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0046: UDP reliability test payload | sequence=0046 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0047: UDP reliability test payload | sequence=0047 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0048: UDP reliability test payload | sequence=0048 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0049: UDP reliability test payload | sequence=0049 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0050: UDP reliability test payload | sequence=0050 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0051: UDP reliability test payload | sequence=0051 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0052: UDP reliability test payload | sequence=0052 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0053: UDP reliability test payload | sequence=0053 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0054: UDP reliability test payload | sequence=0054 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0055: UDP reliability test payload | sequence=0055 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0056: UDP reliability test payload | sequence=0056 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0057: UDP reliability test payload | sequence=0057 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0058: UDP reliability test payload | sequence=0058 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0059: UDP reliability test payload | sequence=0059 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0060: UDP reliability test payload | sequence=0060 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0061: UDP reliability test payload | sequence=0061 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0062: UDP reliability test payload | sequence=0062 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0063: UDP reliability test payload | sequence=0063 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0064: UDP reliability test payload | sequence=0064 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0065: UDP reliability test payload | sequence=0065 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0066: UDP reliability test payload | sequence=0066 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0067: UDP reliability test payload | sequence=0067 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0068: UDP reliability test payload | sequence=0068 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0069: UDP reliability test payload | sequence=0069 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0070: UDP reliability test payload | sequence=0070 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0071: UDP reliability test payload | sequence=0071 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0072: UDP reliability test payload | sequence=0072 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0073: UDP reliability test payload | sequence=0073 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0074: UDP reliability test payload | sequence=0074 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0075: UDP reliability test payload | sequence=0075 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0076: UDP reliability test payload | sequence=0076 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0077: UDP reliability test payload | sequence=0077 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0078: UDP reliability test payload | sequence=0078 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0079: UDP reliability test payload | sequence=0079 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0080: UDP reliability test payload | sequence=0080 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0081: UDP reliability test payload | sequence=0081 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0082: UDP reliability test payload | sequence=0082 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0083: UDP reliability test payload | sequence=0083 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0084: UDP reliability test payload | sequence=0084 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0085: UDP reliability test payload | sequence=0085 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0086: UDP reliability test payload | sequence=0086 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0087: UDP reliability test payload | sequence=0087 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0088: UDP reliability test payload | sequence=0088 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0089: UDP reliability test payload | sequence=0089 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0090: UDP reliability test payload | sequence=0090 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0091: UDP reliability test payload | sequence=0091 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0092: UDP reliability test payload | sequence=0092 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0093: UDP reliability test payload | sequence=0093 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0094: UDP reliability test payload | sequence=0094 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0095: UDP reliability test payload | sequence=0095 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0096: UDP reliability test payload | sequence=0096 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0097: UDP reliability test payload | sequence=0097 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0098: UDP reliability test payload | sequence=0098 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0099: UDP reliability test payload | sequence=0099 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 0123456789
+Line 0100: UDP reliability test payload | sequence=0100 | ABCDEFGHIJKLMNOPQRSTUVWXYZ | 012

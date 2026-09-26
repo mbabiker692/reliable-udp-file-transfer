@@ -34,7 +34,7 @@ def reliable_send(sock, data, address, seq_num):
             if ackseq_num == seq_num:
                 ack_received = True
                 print("Sender Received " + ACKpacket[0].decode())
-                print(ACKpacket[1])
+                #print(ACKpacket[1])
                 return (seq_num + 1)
             
             
