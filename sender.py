@@ -1,10 +1,15 @@
 #sender.py
 
+
 import socket
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 sock.settimeout(2)
 seq_num = 0
 address = ("127.0.0.1", 5000)
+
+#Transfer Stats
+total_packets_sent = 0
+retransmissions = 0
 
 
 def reliable_send(sock, data, address, seq_num):
@@ -15,9 +20,13 @@ def reliable_send(sock, data, address, seq_num):
 
     while ack_received == False:
         sock.sendto(datapacket, address)
+        global total_packets_sent
+        total_packets_sent += 1
 
         try:
+
             ACKpacket = sock.recvfrom(1024)
+
             rawReceivedACK = ACKpacket[0]
             receivedACK = rawReceivedACK.decode()
             ackData = receivedACK.split("ACK ", maxsplit=1)
@@ -31,6 +40,8 @@ def reliable_send(sock, data, address, seq_num):
             
         except TimeoutError:
             ack_received = False
+            global retransmissions
+            retransmissions += 1
             print("Timeout! Retransmitting packet", seq_num)
 
 file = open("test.txt", "rb")
@@ -44,3 +55,9 @@ seq_num = -1
 seq_num = reliable_send(sock, chunk, address, seq_num)
 
 file.close()
+
+print("Statistics:")
+print("Total Packets Sent: " + str(total_packets_sent))
+print("Retransmissions: " + str(retransmissions))
+
+
